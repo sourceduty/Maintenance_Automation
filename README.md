@@ -14,6 +14,8 @@ Furthermore, this GPT adheres to industry best practices and safety standards, e
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
