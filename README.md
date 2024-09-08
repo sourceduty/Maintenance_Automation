@@ -18,6 +18,8 @@ Furthermore, this GPT adheres to industry best practices and safety standards, e
 [Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
 <br>
 [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
